@@ -2,4 +2,4 @@
 
 # Architecture 
 
-[Title](../../../Trames/devops/starfighter/terraform/openvpn-server/architecture.pdf)
+[Title](architecture.pdf)
