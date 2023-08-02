@@ -2,5 +2,4 @@
 
 # Architecture 
 
-
-![Alt text](../../../Trames/devops/starfighter/terraform/openvpn-server/architecture.png)
+[Title](../../../Trames/devops/starfighter/terraform/openvpn-server/architecture.pdf)
