@@ -2,4 +2,4 @@
 
 # Architecture 
 
-[Title](architecture.pdf)
+![Alt text](architecture.png)
